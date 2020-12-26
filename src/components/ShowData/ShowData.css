@@ -1,0 +1,53 @@
+.ShowData {
+  padding-bottom: 55px;
+}
+
+.Infected {
+  border-bottom: 5px solid #f3d174;
+}
+
+.Deaths {
+  border-bottom: 5px solid #9c1300;
+}
+
+.Tested {
+  border-bottom: 5px solid #05fd79;
+}
+
+.Active {
+  border-bottom: 5px solid #f07291;
+}
+
+.Recovered {
+  border-bottom: 5px solid #70f5ae;
+}
+
+.Population {
+  border-bottom: 5px solid #005995;
+}
+
+@media only screen and (max-width: 667px) {
+  .Infected {
+    border-bottom: 3px solid #c7af6b;
+  }
+
+  .Deaths {
+    border-bottom: 3px solid #ff3a22;
+  }
+
+  .Tested {
+    border-bottom: 3px solid #8bf0ba;
+  }
+
+  .Active {
+    border-bottom: 3px solid #f07291;
+  }
+
+  .Recovered {
+    border-bottom: 3px solid #00ff77;
+  }
+
+  .Population {
+    border-bottom: 3px solid #005995;
+  }
+}
