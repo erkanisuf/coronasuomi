@@ -5,7 +5,7 @@ Corona virus APP , that tracks the data about cases in Finland. It has Statistic
 
 **Why i did it?**
 <br />
-I wanted to be usefull in a way and this project helped me to  learned about REST APIs and how I can use them to get a data from
+I wanted to be usefull in a some way . and this project helped me to  learned about REST APIs and how I can use them to get a data from
 services. This project was challenging with API`s since some of the data
 was not enough from single API , I had to use multiple API calls to
 combine the data and create a result/render to the user. Got good
